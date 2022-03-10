@@ -54,7 +54,6 @@ VALUES
 select * from students where teacherID = 987654321;
 select * from teachers where classNumber = 1;
 
-select ownerId, count(ownerId) from dogs group by ownerId;
 
 
 
